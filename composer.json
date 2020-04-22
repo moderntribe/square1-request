@@ -1,7 +1,7 @@
 {
     "name": "moderntribe/square1-request",
     "type": "library",
-    "description": "A utility for forcing content pages to exist in square one",
+    "description": "A utility for accessing information about the request environment",
     "license": "GPL-2.0-only",
     "config": {
         "vendor-dir": "vendor",
